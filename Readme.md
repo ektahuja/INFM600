@@ -1,4 +1,4 @@
-I# INFM600
+INFM600 Information Discovery & Analysis Project
 -----------
 Version
 -----------
@@ -13,7 +13,7 @@ Description
 
 **Crime.csv**
 
-This file includes data about all the crimes committed at various locations in the state of Maryland. It includes important details such as zipcode, latitude, longitude, city, class of crime and so on.
+This file includes data about all the crimes committed at various locations in Montgomery county. It includes important details such as zipcode, latitude, longitude, city, class of crime and so on.
 
 **Supporting Data Set**
 
@@ -103,4 +103,4 @@ Credits
 -------
 
 This dataset was built by Ekta Ahuja and Rohan Khadilkar. To reference, you can use the following citation:
-hadilkar, R., & Ahuja, E., (2016, March 15). Crime Rate near Public Elementary Schools. [Dataset CSV file]. Available: https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged.csv
+Khadilkar, R., & Ahuja, E., (2016, March 15). Crime Rate near Public Elementary Schools. [Dataset CSV file]. Available: https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged.csv
