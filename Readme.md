@@ -86,22 +86,21 @@ Attribution-NonCommercial-ShareAlike 4.0 International License (see
 http://creativecommons.org/licenses/by-nc-sa/4.0/).
    
 	The data is made available for non-commercial use. Those interested in using the data 
-   	in a commercial context should contact the owner(Ekta Ahuja).
+   	in a commercial context should contact the owners(Ekta Ahuja and Rohan Khadilkar).
 
 ----------
 References
 ----------
 
-The Geographic Information Systems Division. (2015). Presubmission Community Meetings [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
+dataMontgomery. (2016, Mar 15). Crime [Dataset CSV file] Available: https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3 Date Accessed: March 17, 2016.
 
-The Geographic Information Systems Division (2014) Age Restricted Houses [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
+dataMontgomery. (2016, Mar 15). Public Elementary Schools [Dataset CSV file] Available: https://data.montgomerycountymd.gov/Education/Public-Elementary-Schools/j7rm-vyfs Date Accessed: March 15, 2016.
 
-The Geographic Information Systems Division (2014) Age Restricted Apartments [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
-
-Ekta, A. (2016). Crime_PublicElementarySchools_merged [Data CSV file]. Available from https://github.com/ektahuja/INFM600/.
+Khadilkar, R., & Ahuja, E., (2016, March 15). Crime Rate near Public Elementary Schools. [Dataset CSV file]. Available: https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged.csv
 
 -------
-Author
+Credits
 -------
 
-Ekta Ahuja
+This dataset was built by Ekta Ahuja and Rohan Khadilkar. To reference, you can use the following citation:
+hadilkar, R., & Ahuja, E., (2016, March 15). Crime Rate near Public Elementary Schools. [Dataset CSV file]. Available: https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged.csv
