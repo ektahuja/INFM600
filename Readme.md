@@ -1,4 +1,10 @@
-# INFM600
+I# INFM600
+-----------
+Version
+-----------
+
+Version 1.0 (March 2016)
+
 -----------
 Description
 -----------
@@ -20,7 +26,7 @@ This data set includes information about the elementary schools in the state of 
 
 **Crime_PublicElementarySchools_merged.csv**
 
-This data set uses the data from the focal data set and Public_Elementary_Schools.csv
+TThis dataset consists of all records from the Crime and Public Elementary Schools database in Montgomery County, joined on the column “City”.
 
 
 
@@ -28,7 +34,34 @@ This data set uses the data from the focal data set and Public_Elementary_School
 Analysis
 ---------------
 
-Todo
+Does crime happen in or around school areas? Which would the safest school in Montgomery county?
+General perception is that school areas are generally safe. This question will help understand whether that’s the case.
+
+
+All analysis was done using the freely available analysis tool Tableau and Microsoft Excel.
+
+
+The Public Elementary Schools dataset was analyzed first. Here, we identified the unique school areas (according to zip code) in Montgomery County. (please refer Fig.1)
+
+
+
+
+![alt tag](https://github.com/ektahuja/INFM600/blob/master/Public_Elementary_Schools_zipcode.jpg)
+
+Fig. 1
+
+Then, the merged dataset Crime_PublicElementarySchools_merged.csv was used to analyze whether crime happens in school areas. (please refer Fig.2)
+
+
+![alt tag](https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged.csv)
+  
+Fig. 2
+
+The results were entered in an Excel file to analyze the change seen in the number of records for every zip code.(please refer Analysis.xls)
+
+Initial Conclusion
+There was a huge increase seen in the values for every zip code. However, the change in number of records for Zip Code 20896 was only 1. Therefore, we believe crime does happen in or around school areas. However, the safest school in Montgomery County would be for the Zip Code 20896 i.e. Garrett Park ES (Construction) school in Garrett Park.
+
 
 -----
 Files
@@ -40,7 +73,7 @@ Files
 
 *Crime_PublicElementarySchools_merged.csv*
 
-*Process Documentation*
+*Process Documentation.pdf*
 
 ------- 
 License
