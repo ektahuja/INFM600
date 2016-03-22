@@ -59,7 +59,9 @@ Fig. 2
 
 The results were entered in an Excel file to analyze the change seen in the number of records for every zip code.(please refer Analysis.xls)
 
-Initial Conclusion
+---------------
+Intial Conclusion
+---------------
 There was a huge increase seen in the values for every zip code. However, the change in number of records for Zip Code 20896 was only 1. Therefore, we believe crime does happen in or around school areas. However, the safest school in Montgomery County would be for the Zip Code 20896 i.e. Garrett Park ES (Construction) school in Garrett Park.
 
 
