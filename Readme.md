@@ -53,7 +53,7 @@ Fig. 1
 Then, the merged dataset Crime_PublicElementarySchools_merged.csv was used to analyze whether crime happens in school areas. (please refer Fig.2)
 
 
-![alt tag](https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged.csv)
+![alt tag](https://github.com/ektahuja/INFM600/blob/master/Crime_PublicElementarySchools_merged_zipcode.jpg)
   
 Fig. 2
 
