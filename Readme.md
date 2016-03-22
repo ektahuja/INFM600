@@ -19,7 +19,7 @@ This file includes data about all the crimes committed at various locations in M
 
 **Public_Elementary_Schools.csv**
 
-This data set includes information about the elementary schools in the state of Maryland. It has data values describing name of the school, address, city, state, zip code, latitude, lontitude and so on.
+This data set includes information about the elementary schools in the Montgomery county. It has data values describing name of the school, address, city, state, zip code, latitude, lontitude and so on.
 
 
 **Merged Dataset**
